@@ -1,0 +1,165 @@
+.box{
+    width: 360px;
+    height: 800px;
+    margin-left: 600px;
+    margin-top: 50px;
+    border: 1px solid white ;
+    background-color: white;    
+    flex-direction: column;
+}
+.welcome{
+    width: 194px;
+    height: 72px;
+    border: 1px solid none;
+    font-family: Poppins;   
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-left: 82px;
+    margin-top: 119px;
+    display: flex;
+}
+.user{
+    width: 312px;
+    height: 48px;
+    margin-top:43px;
+    margin-left:24px;
+    border-radius: 10px;
+    border:0.6px solid none;
+}
+.pass{
+    width: 312px;
+    height: 48px;
+    margin-top:23px; 
+    margin-left:24px;
+    border-radius: 10px;
+    border:1px solid none;
+}
+.forgot{
+    width: 125px;
+    height: 21px;
+    margin-top: 10px;
+    margin-left: 117px;
+    border: 1px solid none;
+    color: #2F89FC;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+.bt{
+    width: 312px;
+    height: 48px;
+    margin-top: 20px    ;
+    margin-left: 24px;
+    border-radius: 5px;
+    background-color:#0E64D2;
+    color:#FFFFFFE5;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    border-style: none;
+}
+
+.box-dont{
+    width: 229px;
+    height: 21px;
+    margin-top: 20px;
+    margin-left: 65px;
+    border: 1px solid none;
+    display: flex;
+}
+.account{
+    width: 168px;
+    height: 21px;
+    border: 1px solid none;
+}
+.sign-up{
+    width: 50px;
+    height: 21px;
+    margin-left: 8px;
+}
+.fb{
+    width: 312px;
+    height: 48px;
+    margin-top: 12px;
+    margin-left: 24px;
+    border-radius: 10px;
+    background-color:#0E64D2;
+    border-style: none;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color:#FFFFFFE5;
+    background-image: url(./facebook\ logo.png);
+    background-position: 11px;
+    background-repeat: no-repeat;
+}
+.gg{
+    width: 312px;
+    height: 48px;
+    margin-top: 20px;
+    margin-left: 24px;
+    border-radius: 10px;
+    background-color:white;
+    border: 0.6px solid gray;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    background-image: url(./google\ logo.png);
+    background-repeat: no-repeat;
+    background-position: 11px;
+}
+.box-or{
+    width: 304px;
+    height: 21px;
+    margin-top: 17px;
+    margin-left: 18px;
+    display: flex;
+    align-items: center;
+}
+.or{
+    width: 17px;
+    height: 21px;
+}
+.hr{
+    width: 139px;
+    border: 1px solid;
+}
+.box-end{
+    width: 194px;
+    height: 48px;
+    border: 1px solid none;
+    align-items: center;
+    margin-top: 68px;
+    margin-left: 24px;
+    display:flex;
+}   
+.me{
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+    background-image: url(./Me\ logo.png);
+    background-repeat: no-repeat;
+ 
+}
+.lein{
+    width: 138px;
+    height: 36px;
+    opacity: 0.5px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0em;
+    margin-left: 6px;
+}
